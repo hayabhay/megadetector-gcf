@@ -1,0 +1,16 @@
+# Development packages only
+
+-r requirements-base.txt
+black==22.1.0  # https://github.com/psf/black
+
+# Code style & linting
+# ------------------------------------------------------------------------------
+flake8==4.0.1  # https://github.com/PyCQA/flake8
+flake8-isort==4.1.1  # https://github.com/gforcada/flake8-isort
+functions-framework==3.* # https://github.com/GoogleCloudPlatform/functions-framework-python
+
+# Local dev
+# ------------------------------------------------------------------------------
+jupyter # https://github.com/jupyter/
+pre-commit==2.17.0  # https://github.com/pre-commit/pre-commit
+types-requests==2.27.15 # https://github.com/python/typeshed/stargazers

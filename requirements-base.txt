@@ -1,0 +1,7 @@
+google-cloud-storage==2.3.0 # https://github.com/googleapis/python-storage
+Pillow==9.0.1  # https://github.com/python-pillow/Pillow
+python-dotenv==0.20.0 # https://github.com/theskumar/python-dotenv
+requests==2.27.1  # https://github.com/psf/requests
+# ML
+# ------------------------------------------------------------------------------
+tensorflow==2.9.1 # https://github.com/tensorflow/tensorflow
